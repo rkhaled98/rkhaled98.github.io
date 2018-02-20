@@ -1,0 +1,75 @@
+ #profilejpg{
+	 height: 100px;
+	 width: 73.5px;
+ }
+
+ .header .image{
+  position: absolute;
+
+ }
+
+ .header{
+	 font-family: monospace;
+	 height: 100px;
+	 margin-bottom: 10px;
+ }
+ hr{
+    width: 240px;
+    float: left;
+  }
+
+ .header .text{
+ 	 position: relative;
+ 	 left: 85px;
+  }
+
+ .header h1{
+	 margin: 0px;
+	 padding: 0px;
+ }
+
+ .header h3{
+	 margin: 2px;
+	 font-weight: lighter;
+   clear: both;
+ }
+
+ table{
+	 position: relative;
+	 top: 20px;
+   left: -15px;
+   border-spacing: 12px; <!-- this let me split the sections!-->
+ }
+ .items{
+   position: relative;
+   left: 10px;
+   top: 0px;
+ }
+
+/* this is to change dist between lower rows
+ #bottom{
+   position: relative;
+   top: -20px;
+ }
+ */
+
+ th{
+	 font-style: italic;
+   border-right: dashed #899fc1;
+   padding-right: 30px;
+ }
+
+ .head{
+	 font-weight: bold;
+   position: relative;
+ }
+
+ .sub{
+	 font-style: italic;
+   position: relative;
+   left: 25px;
+   top: -5px;
+ }
+ body {
+	background-color: #cec6c6;
+  }
